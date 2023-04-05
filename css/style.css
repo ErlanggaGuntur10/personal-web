@@ -50,6 +50,8 @@ nav ul li a:hover{
 }
 
 main {
+    display: flex;
+    flex-direction: column;
     margin: 50px 0px;
     border-bottom: 1px solid #f1f1f1; 
     align-items: center;
@@ -158,6 +160,7 @@ main {
 	clear: both;
     display: block;
 }
+
 
 #laman h1 {
     text-align: center;
